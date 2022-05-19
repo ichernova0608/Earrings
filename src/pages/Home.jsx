@@ -34,12 +34,12 @@ function Home({
           {searchValue ? `Поиск по запросу: "${searchValue}"` : "Все товары"}
         </h1>
         <div className="search-block d-flex">
-          <img src="/img/search.svg" alt="search" />
+          <img src="img/search.svg" alt="search" />
           {searchValue && (
             <img
               onClick={() => setSearchValue("")}
               className="clean cu-p"
-              src="/img/btn-remove.svg"
+              src="img/btn-remove.svg"
               alt="clear"
             />
           )}
