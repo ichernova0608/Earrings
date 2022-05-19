@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Earrings/static/css/main.93e4dee4.css",
+    "main.js": "/Earrings/static/js/main.0628bdf9.js",
+    "index.html": "/Earrings/index.html",
+    "main.93e4dee4.css.map": "/Earrings/static/css/main.93e4dee4.css.map",
+    "main.0628bdf9.js.map": "/Earrings/static/js/main.0628bdf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e4dee4.css",
+    "static/js/main.0628bdf9.js"
+  ]
+}
