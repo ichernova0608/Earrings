@@ -7,7 +7,6 @@ function Orders() {
   // const { onAddToFavorite, onAddToCart } = React.useContext(AppContext);
   const [orders, setOrders] = React.useState([]);
   const [isLoading, setIsLoading] = React.useState(true);
-
   React.useEffect(() => {
     (async () => {
       try {
@@ -22,7 +21,6 @@ function Orders() {
       }
     })();
   }, []);
-
   return (
     <div className="content p-40">
       <div className="d-flex align-center justify-between mb-40">
@@ -38,8 +36,7 @@ function Orders() {
           onFavorite={(obj) => onAddToFavorite(obj)}
           loading={isLoading}
           {...item} />
-        ))} */}
-          
+        ))} */}  
       </div>
     </div>
   );

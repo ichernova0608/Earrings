@@ -118,7 +118,7 @@ function App() {
 
       <Routes>
         <Route
-          path="/"
+          path=""
           exact
           element={
             <Home
@@ -137,7 +137,7 @@ function App() {
 
       <Routes>
         <Route
-          path="/favorites"
+          path="favorites"
           exact
           element={
             <Favorites />
@@ -146,7 +146,7 @@ function App() {
       </Routes>
       <Routes>
         <Route
-          path="/orders"
+          path="orders"
           exact
           element={
             <Orders />
