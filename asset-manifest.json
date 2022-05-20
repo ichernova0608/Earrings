@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Earrings/static/css/main.93e4dee4.css",
-    "main.js": "/Earrings/static/js/main.77f616b7.js",
+    "main.js": "/Earrings/static/js/main.d9e206c5.js",
     "index.html": "/Earrings/index.html",
     "main.93e4dee4.css.map": "/Earrings/static/css/main.93e4dee4.css.map",
-    "main.77f616b7.js.map": "/Earrings/static/js/main.77f616b7.js.map"
+    "main.d9e206c5.js.map": "/Earrings/static/js/main.d9e206c5.js.map"
   },
   "entrypoints": [
     "static/css/main.93e4dee4.css",
-    "static/js/main.77f616b7.js"
+    "static/js/main.d9e206c5.js"
   ]
 }
