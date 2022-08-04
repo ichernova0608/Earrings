@@ -1,3 +1,15 @@
+# Посмотреть (только десктоп версия)
+
+<https://ichernova0608.github.io/Earrings/>
+
+# Основной функционал
+
+1. Карточки товаров
+2. Поиск по товарам
+3. Добавление/удаление товара в избранное и корзину, оформление заказа
+4. Подключена тестовая БД 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
